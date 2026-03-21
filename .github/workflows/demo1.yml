@@ -17,7 +17,7 @@ on:
       - 'feat/**' # feat/new feat/new/button
     paths-ignore:
     - '.github/workflows/*'
-   # This is for test of skip 
+   # This is for test of skip  1
 jobs:
   deploy:
     runs-on: ubuntu-latest
