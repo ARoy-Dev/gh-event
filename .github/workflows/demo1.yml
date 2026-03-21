@@ -4,7 +4,7 @@ on:
     types: 
       - opened
   workflow_dispatch:
-    # This is for comment
+    
 jobs:
   deploy:
     runs-on: ubuntu-latest
